@@ -1,0 +1,71 @@
+Roll no = 94
+Name = Shubham Sharma
+
+question set 1;
+
+1.
+ans=select to_char(sysdate,'yyyy-mm-dd') from emp;
+2.
+ans=select ename, sal from emp
+    order by sal;
+3.
+ans=select ename from emp
+    where comm > sal;
+4.
+ans= select distinct dname from emp,dept
+    where emp.deptno = dept.deptno;
+5.
+ans = select ename,mgr from emp;
+6
+ans =  select sum(sal) from emp
+    where deptno = 40;
+7
+ans= select * from emp where ename like 'S%';
+8
+ans = select ename from emp
+    where deptno between 20 and 40;
+9.
+ans =SELECT ENAME FROM EMP WHERE LENGTH(ENAME) = 5;
+
+=====================================================================================================
+
+question set 2
+
+1.
+ans = select * from emp;
+
+2
+ans = select * frpm dept;
+
+3
+ans = select * from emp     
+    where deptno = 20;
+4.
+ans =  select * from emp 
+    order by sal desc;
+
+5.
+ans = select deptno,min(sal),avg(sal) from emp
+    group by deptno;
+
+6.
+ans = select count(job) from emp;
+
+7.
+ans = select min(sal),avg(sal) from emp
+    group by deptno;
+
+8.
+ans = select * from emp                
+    where job = 'CLERK';
+
+9.
+ans = select count(ename) from emp 
+    group by deptno;
+10.
+ans = select dname from dept
+  2  where deptno in (
+  3  select deptno from emp
+  4  where job = 'CLERK'   
+  5  group by deptno
+  6  having count(*)>=2);

@@ -1,0 +1,15 @@
+D:\Assignment\DotNet\Assign5\Loan\bin\Debug\net6.0\Loan.exe
+D:\Assignment\DotNet\Assign5\Loan\bin\Debug\net6.0\Loan.deps.json
+D:\Assignment\DotNet\Assign5\Loan\bin\Debug\net6.0\Loan.runtimeconfig.json
+D:\Assignment\DotNet\Assign5\Loan\bin\Debug\net6.0\Loan.dll
+D:\Assignment\DotNet\Assign5\Loan\bin\Debug\net6.0\Loan.pdb
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.csproj.AssemblyReference.cache
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.AssemblyInfoInputs.cache
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.AssemblyInfo.cs
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.csproj.CoreCompileInputs.cache
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.dll
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\refint\Loan.dll
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.pdb
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\Loan.genruntimeconfig.cache
+D:\Assignment\DotNet\Assign5\Loan\obj\Debug\net6.0\ref\Loan.dll

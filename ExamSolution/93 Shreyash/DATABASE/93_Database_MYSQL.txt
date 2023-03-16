@@ -1,0 +1,38 @@
+Create table
+------------------------------
+create table cdacstudent(
+rollno int(6),
+sname varchar(20),
+branch varchar(20)
+)
+
+Insert rows
+
+insert into emp.cdacstudent (rollno,sname,branch) 
+values  (1,'Shreyash','PGDAC'),
+(2,'Shubham','MBA'),
+(3,'Suraj','MMS')
+
+
+Alter Table
+
+ALTER table cdacstudent 
+ADD class varchar(20);
+
+Deleting row
+Delete from cdacstudent where rollno = 2;
+
+Dropping a Cloumn
+Alter table cdacstudent
+drop column branch;
+
+Alter column rollno
+ALTER TABLE cdacstudent
+modify COLUMN rollno float(10,2);
+
+
+Delete all data table
+delete from cdacstudent;
+
+Drop table
+Drop table cdacstudent;

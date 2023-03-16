@@ -1,0 +1,15 @@
+D:\Assignment\DotNet\Assign3\DempApp\bin\Debug\net6.0\DempApp.exe
+D:\Assignment\DotNet\Assign3\DempApp\bin\Debug\net6.0\DempApp.deps.json
+D:\Assignment\DotNet\Assign3\DempApp\bin\Debug\net6.0\DempApp.runtimeconfig.json
+D:\Assignment\DotNet\Assign3\DempApp\bin\Debug\net6.0\DempApp.dll
+D:\Assignment\DotNet\Assign3\DempApp\bin\Debug\net6.0\DempApp.pdb
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.csproj.AssemblyReference.cache
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.AssemblyInfoInputs.cache
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.AssemblyInfo.cs
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.csproj.CoreCompileInputs.cache
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.dll
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\refint\DempApp.dll
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.pdb
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\DempApp.genruntimeconfig.cache
+D:\Assignment\DotNet\Assign3\DempApp\obj\Debug\net6.0\ref\DempApp.dll

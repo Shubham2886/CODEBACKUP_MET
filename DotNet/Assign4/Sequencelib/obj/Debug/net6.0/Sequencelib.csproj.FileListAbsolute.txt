@@ -1,0 +1,12 @@
+D:\Assignment\DotNet\Assign4\Sequencelib\bin\Debug\net6.0\Sequencelib.deps.json
+D:\Assignment\DotNet\Assign4\Sequencelib\bin\Debug\net6.0\Sequencelib.dll
+D:\Assignment\DotNet\Assign4\Sequencelib\bin\Debug\net6.0\Sequencelib.pdb
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.csproj.AssemblyReference.cache
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.AssemblyInfoInputs.cache
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.AssemblyInfo.cs
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.csproj.CoreCompileInputs.cache
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.dll
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\refint\Sequencelib.dll
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\Sequencelib.pdb
+D:\Assignment\DotNet\Assign4\Sequencelib\obj\Debug\net6.0\ref\Sequencelib.dll

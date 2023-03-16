@@ -1,0 +1,15 @@
+D:\ExamSolutions\93 Shreyash\Staff\bin\Debug\net6.0\StaffTest.exe
+D:\ExamSolutions\93 Shreyash\Staff\bin\Debug\net6.0\StaffTest.deps.json
+D:\ExamSolutions\93 Shreyash\Staff\bin\Debug\net6.0\StaffTest.runtimeconfig.json
+D:\ExamSolutions\93 Shreyash\Staff\bin\Debug\net6.0\StaffTest.dll
+D:\ExamSolutions\93 Shreyash\Staff\bin\Debug\net6.0\StaffTest.pdb
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.csproj.AssemblyReference.cache
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.AssemblyInfoInputs.cache
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.AssemblyInfo.cs
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.csproj.CoreCompileInputs.cache
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.dll
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\refint\StaffTest.dll
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.pdb
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\StaffTest.genruntimeconfig.cache
+D:\ExamSolutions\93 Shreyash\Staff\obj\Debug\net6.0\ref\StaffTest.dll
